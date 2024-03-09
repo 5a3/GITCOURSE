@@ -4,6 +4,10 @@
 hello ahmed
 </title>
 <style>
+body{
+backgroundcolor:red;
+
+}
 <style/>
 <head/>
 
